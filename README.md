@@ -1,12 +1,12 @@
 # CHEME 545
 This file is to understand this repository\
-This repository contains all HWs for WIN 25 quarter for CHEME 545 course for Ria Sonigra\
+This repository contains all HWs for WIN 25 quarter for CHEME 545 course for Ria Sonigra
 
 HW 1:\
 extract_parameter.py\
 To run the function in this file you have to pass 3 arguments to get value given in a pre-described dictionary. \
 Eg: extract_parameter("heat_exchanger", "temperature_in", 1)\
-The approach here was to define a function to extract the value from a 2D - dictionary\
+The approach here was to define a function to extract the value from a 2D - dictionary
 
 
 calculate_solution_weights.py\
